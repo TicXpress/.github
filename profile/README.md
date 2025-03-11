@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# UpNext
+## Welcome to TicExpress
 <!--
 
 **Here are some ideas to get you started:**
